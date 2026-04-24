@@ -14,7 +14,7 @@ st.title("Premier League Economic Impact Analysis")
 st.markdown("**Developer:** Yongjin.Chen | **Student ID:** 2468705")
 st.divider()
 
-# ---------------- 1. 读取数据（相对路径，可跨电脑运行） ----------------
+# ---------------- 1. 读取数据 ----------------
 df = pd.read_csv("pl_economic_data.csv")
 df.columns = df.columns.str.strip()
 
