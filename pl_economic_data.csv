@@ -1,0 +1,21 @@
+year,league,team,revenue_million,spending_million,points,goals_scored,goals_conceded
+2020,Premier League,Manchester United,580,450,73,73,44
+2020,Premier League,Manchester City,570,500,81,102,35
+2020,Premier League,Liverpool,540,380,99,85,33
+2020,Premier League,Chelsea,480,420,67,58,36
+2020,Premier League,Tottenham,450,350,62,61,47
+2021,Premier League,Manchester United,620,480,57,57,57
+2021,Premier League,Manchester City,600,520,86,80,31
+2021,Premier League,Liverpool,590,400,69,68,42
+2021,Premier League,Chelsea,520,450,67,58,36
+2021,Premier League,Tottenham,480,380,71,64,35
+2022,Premier League,Manchester United,650,520,75,58,43
+2022,Premier League,Manchester City,630,550,93,94,33
+2022,Premier League,Liverpool,610,420,67,75,47
+2022,Premier League,Chelsea,550,480,44,38,50
+2022,Premier League,Tottenham,500,400,60,63,48
+2023,Premier League,Manchester United,680,550,60,58,43
+2023,Premier League,Manchester City,660,580,89,96,31
+2023,Premier League,Liverpool,640,450,82,75,40
+2023,Premier League,Chelsea,580,500,54,38,54
+2023,Premier League,Tottenham,530,420,66,74,45
